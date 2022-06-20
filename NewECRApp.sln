@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewECRApp", "NewECRApp\NewECRApp.csproj", "{079687E5-591D-4084-8CC2-A3A5D62678A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Connect360", "Connect360\Connect360.csproj", "{35A6032C-3E8A-4922-9E08-BF307B2F45BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{079687E5-591D-4084-8CC2-A3A5D62678A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{079687E5-591D-4084-8CC2-A3A5D62678A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{079687E5-591D-4084-8CC2-A3A5D62678A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{079687E5-591D-4084-8CC2-A3A5D62678A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35A6032C-3E8A-4922-9E08-BF307B2F45BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35A6032C-3E8A-4922-9E08-BF307B2F45BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35A6032C-3E8A-4922-9E08-BF307B2F45BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35A6032C-3E8A-4922-9E08-BF307B2F45BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34C1CC68-FC61-4484-99EF-E0AAB98B030F}
+	EndGlobalSection
+EndGlobal
